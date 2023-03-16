@@ -1,1 +1,1 @@
-# ejercicio1.web.estatica
+# DISE-OWEB.ESTATICA

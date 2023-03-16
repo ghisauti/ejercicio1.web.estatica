@@ -1,0 +1,42 @@
+#body{
+    background-color: #e0e4cc;
+    width: 1024px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.img1{
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    display: block
+}
+.img2{
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    display: block
+}
+.letra1{
+    font-size: 15px;
+    width: 600px;
+}
+.botonera{
+   display: block;
+   margin: auto;
+   background-color: black;
+   color: white;
+}
+.footer{
+    background-color: black;
+    position: absolute;
+    height: 200px;
+    width: 1500px;
+    right: 200px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
